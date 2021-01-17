@@ -1,6 +1,6 @@
 ---
 title: "About me !"
-permalink: /
+<!-- permalink: / -->
 author_profile: true
 excerpt: "Welcome to my personal webpage"
 ---

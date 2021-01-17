@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Balamurugan Thambiraja"
 description              : "Welcome to my personal webpage"
-url                      : https://balamuruganthambiraja.github.io
+url                      : "https://balamuruganthambiraja.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "balamuruganthambiraja/balamuruganthambiraja.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -142,6 +142,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - images
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
